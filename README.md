@@ -1,4 +1,4 @@
-# CUDA
+# CUDA-Accelerated Transformer Inference Engine
 
 An incremental systems project for understanding decoder-only transformer inference from a correct PyTorch reference through a lightweight C++/CUDA runtime. The project deliberately favors measurable, explainable improvements over a large framework.
 
