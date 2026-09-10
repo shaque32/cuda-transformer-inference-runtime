@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+cmake-build-*/
+benchmarks/results/*.json
+!benchmarks/results/.gitkeep
+*.nsys-rep
+*.ncu-rep
