@@ -53,6 +53,3 @@ python -m hpti.benchmark --device cuda --output benchmarks/results/m1-pytorch.js
 - Each optimization records the hypothesis, measurement method, shape, precision, hardware/software environment, and result—including regressions.
 - README and resume performance numbers are added only after benchmark artifacts exist in `benchmarks/results/`.
 
-## Planned resume scope
-
-The intended outcome is a lightweight C++/CUDA decoder-only transformer inference runtime with custom kernels, Python bindings, profiling evidence, and reproducible comparisons. That is a target state, not a claim about this Milestone 1 repository.
